@@ -1,9 +1,50 @@
-{
-  "id": "12345",
-  "nome": "Augusto Alves da Silva",
-  "cpf": "000.000.000-00",
-  "rg": "000000000",
-  "telefone": "(51) 90000-0000",
-  "email": "augustoalvess@hotmail.com",
-  "ativo": true
-}
+[
+	{
+		"id": "1"
+		"name": "lume/aula",
+		"type": "project",
+		"description": "Exemplo de aula.",
+		"require": {
+			"php": "^7.3|^8.0"
+		}
+	},
+	
+	{
+		"id": "2"
+		"name": "lume/aula2",
+		"type": "project",
+		"description": "Exemplo de aula.",
+		"require": {
+			"php": "^7.3|^8.0"
+    },
+	
+	{
+		"id": "3"
+		"name": "lume/aula3",
+		"type": "project",
+		"description": "Exemplo de aula.",
+		"require": {
+			"php": "^7.3|^8.0"
+    },
+	
+	{
+		"id": "4"
+		"name": "lume/aula4",
+		"type": "project",
+		"description": "Exemplo de aula.",
+		"require": {
+			"php": "^7.3|^8.0"
+    },
+	
+	{
+		"id": "5"
+		"name": "lume/aula5",
+		"type": "project",
+		"description": "Exemplo de aula.",
+		"require": {
+			"php": "^7.3|^8.0"
+    }
+	
+	
+
+]
