@@ -1,0 +1,85 @@
+[
+	
+	{"LANCHES": },
+	
+	{
+    	"id":"1",
+		"nome": "Hamburguer tradicional",
+    	"ingredientes": "pao, maionese, hamburguer, picles, alface, queijo, cebola, tomate",
+        "valor": "R$ 10,00"
+	},
+	
+	{
+    	"id":"2",
+		"nome": "Hamburguer duplo",
+    	"ingredientes": "pao, maionese, 2 hamburguer, picles, alface, queijo, cebola, tomate",
+        "valor": "R$ 14,00"
+	},
+
+    {
+    	"id":"3",
+		"nome": "Hamburguer triplo",
+    	"ingredientes": "pao, maionese, 3 hamburguer, picles, alface, queijo, cebola, tomate",
+        "valor": "R$ 18,00"
+	},
+
+    {
+    	"id":"4",
+		"nome": "Hamburguer frango",
+    	"ingredientes": "pao, maionese, frango, picles, alface, queijo, cebola, tomate",
+        "valor": "R$ 10,00"
+	},
+
+    {
+        "id":"5",
+    	"nome": "Hamburguer duplo frango",
+        "ingredientes": "pao, maionese, duplo frango, picles, alface, queijo, cebola, tomate",
+        "valor": "R$ 14,00"
+    },
+
+    {
+        "id":"6",
+    	"nome": "Hamburguer triplo frango",
+        "ingredientes": "pao, maionese, triplo frango, picles, alface, queijo, cebola, tomate",
+        "valor": "R$ 18,00"
+    },
+
+    {
+        "id":"7",
+    	"nome": "Hamburguer frango e bacon",
+        "ingredientes": "pao, maionese, frango e bacon, picles, alface, queijo, cebola, tomate",
+        "valor": "R$ 20,00"
+    },
+
+    {
+        "id":"8",
+    	"nome": "Combo 1 Hamburguer triplo frango e bacon com Coca 600ml",
+        "ingredientes": "pao, maionese, triplo frango e bacon,  picles, alface, queijo, cebola, tomate",
+        "valor": "R$ 25,00"
+    },
+
+    {
+        "id":"9",
+    	"nome": "Combo 2 Hamburguer duplo carne e bacon com fritas e sprite 600ml ",
+        "ingredientes": "pao, maionese, triplo frango, picles, alface, queijo, cebola, tomate",
+        "valor": "R$ 35,00"
+    },
+
+    {
+        "id":"10",
+    	"nome": "Combo 3 Hamburguer de bacon com 3 porcoes de fritas e sprite 2l ",
+        "ingredientes": "pao, maionese, triplo frango, picles, alface, queijo, cebola, tomate",
+        "porcao": "500g de batata",
+        "valor": "R$ 50,00"
+    },
+
+    {"BEBIDAS":},
+
+    {
+      "Bebida":"Sprite 2L/600ml, Coca-Cola 2L/600ml, Fanta 2L/600ml, Guarana 2L/600ml, Agua 2L/600ml"
+      
+    } 
+
+  
+
+]
