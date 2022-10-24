@@ -1,0 +1,8 @@
+{
+    "name": "lume/aula",
+    "type": "project",
+    "description": "Exemplo de aula.",
+    "require": {
+        "php": "^7.3|^8.0"
+    }
+}
