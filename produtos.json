@@ -1,9 +1,7 @@
 [
 	
-	{"LANCHES": },
-	
-	{
-    	"id":"1",
+	{	"id": "1"
+		"LANCHES": "tipo",
 		"nome": "Hamburguer tradicional",
     	"ingredientes": "pao, maionese, hamburguer, picles, alface, queijo, cebola, tomate",
         "valor": "R$ 10,00"
@@ -73,13 +71,9 @@
         "valor": "R$ 50,00"
     },
 
-    {"BEBIDAS":},
-
-    {
-      "Bebida":"Sprite 2L/600ml, Coca-Cola 2L/600ml, Fanta 2L/600ml, Guarana 2L/600ml, Agua 2L/600ml"
-      
-    } 
-
-  
+    {	"id": "11"
+		"bebida": "tipo"
+		"nome": "bebida, Sprite 2L/600ml, Coca-Cola 2L/600ml, Fanta 2L/600ml, Guarana 2L/600ml, Agua 2L/600ml"
+	} 
 
 ]
